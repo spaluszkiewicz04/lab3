@@ -2,6 +2,6 @@ Programowanie Wizualne
 
 Laboratorium 3 - Pracownicy
 
-Arkusz -> Pracownicy.cs
+1. Arkusz -> Pracownicy.cs
 
-Dodawanie pracownika -> Dodaj.cs
+2. Dodawanie pracownika -> Dodaj.cs
